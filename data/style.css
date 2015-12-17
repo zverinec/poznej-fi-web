@@ -1,0 +1,265 @@
+/*
+ * Zakladni Styl FI MUNI
+ * Autor: Jan Rezac - Filosof
+ *
+ */
+
+@import url("initial.css");
+
+/*========== [moje custom veci] ========================================================*/
+
+#nextSlide2 {
+  position: absolute;
+  top: 370px;
+  right: 5px;
+  z-index: 100;
+}
+
+/*========== [std. design] ========================================================*/
+
+.mobileOnly {display: none;}
+.enableResponsiveLink { display: none;}
+
+a, a:link {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #0d3d93;
+}
+
+a:visited {
+  color: #1b396f;
+}
+
+a:hover, a:focus, a:active {
+  color: #000;
+  text-decoration: none;
+}
+
+/*========== [layout] ========================================================*/
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background: #f7f0be url(../data/body.png) 0 0 repeat-x;
+  color: #444;
+  line-height: 1.6;
+}
+
+table {
+  line-height: 1.6;
+}
+
+div#mWrap {
+  width: 100%;
+}
+
+div#main {
+  text-align: left;
+  margin: 0 auto 40px auto;
+  position: relative;
+
+  /*width: 100%;
+  max-width: 960px;
+  min-width: 770px;*/
+  font-size: 14px;
+  width: 960px;
+}
+
+div#main2 {
+  margin: 0 0 0 0;
+}
+
+/*========== [header] ========================================================*/
+div#header {
+  height: 110px;
+  position: relative;
+  background-position: 411px 100%;
+  background-repeat: no-repeat;
+  z-index: 1000;
+}
+div#header #fimunilogo {
+  display: block;
+  width: 166px;
+  height: 167px;
+  position: absolute;
+  top: 16px;
+  left: 50%;
+  margin-left: -83px;
+  z-index: 1000000;
+}
+
+
+div#logo-fi, div#logo-fi span {
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 330px;
+  height: 61px;
+}
+
+div#logo-fi {
+  top: 30px;
+  left: 29px;
+}
+
+
+div#logo-fi h1 { display: none; }
+div#logo-fi a { color: #FCFCFC; }
+div#logo-fi span.cs {background: url(../data/logo-fi-text-cs.png) 0 0 no-repeat;}
+
+div#altNav a:active, div#altNav a:focus {
+  left: 366px;
+  padding: 0.2em 1em 0.4em;
+  border: 1px solid #0d3d93;
+  top: 38px;
+  font-weight: bold;
+  font-size: 1.2em;
+  display: block;
+  color: #0d3d93;
+}
+
+.subHeader {
+  margin-top: 10px;
+  margin-bottom: 11px;
+  background: #1f1a17 url(../data/subHeader.png) 0 100% repeat-x;
+  color: #fff;
+  position: relative;
+}
+.subHeader:before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 11px;
+  background: #f5dd35;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+}
+  .subHeader .slidesPaginator {
+    position: absolute;
+    bottom: 32px;
+    left: 30px;
+    z-index: 100;
+  }
+  .subHeader .slidesPaginator .item {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: #1f1a17;
+    border: 2px #fff solid;
+    border-radius: 50%;
+    margin-left: 5px;
+    float: left;
+  }
+  .subHeader .slidesPaginator .item:first-child {
+    margin-left: 0;
+  }
+  .subHeader .slidesPaginator .item.active {
+    border-color: #f2d402;
+  }
+  .subHeader .slideList {
+
+  }
+  .subHeader .slidesList .slideItem {
+
+  }
+    .subHeader .slidesList .slideItem .column1 {
+      width: 260px;
+      float: right;
+
+    }
+      .subHeader .slidesList .slideItem .column1 .inner {
+        padding: 25px 20px 25px 30px;
+      }
+      .subHeader .slidesList .slideItem .column1 a,
+      .subHeader .slidesList .slideItem .column1 a:link,
+      .subHeader .slidesList .slideItem .column1 a:visited {
+        text-decoration: none;
+        color: #fff;
+      }
+      .subHeader .slidesList .slideItem .column1 a:hover,
+      .subHeader .slidesList .slideItem .column1 a:visited:hover {
+        text-decoration: underline;
+      }
+      .subHeader .slidesList .slideItem .column1 .row1 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 20px;
+        font-weight: bold;
+      }
+        .subHeader .slidesList a.slideItem .column1 .row1,
+        .subHeader .slidesList a.slideItem:link .column1 .row1,
+        .subHeader .slidesList a.slideItem:visited .column1 .row1 {
+          color: #fff;
+          text-decoration: none;
+        }
+          .subHeader .slidesList a.slideItem:hover .column1 .row1,
+          .subHeader .slidesList a.slideItem:visited:hover .column1 .row1 {
+            text-decoration: underline;
+          }
+        .subHeader .slidesList a.slideItem .column1 .row2,
+        .subHeader .slidesList a.slideItem:link .column1 .row2,
+        .subHeader .slidesList a.slideItem:visited .column1 .row2 {
+          color: #fff;
+        }
+      .subHeader .slidesList .slideItem .column1 .row2 {
+        font-size: 18px;
+        line-height: 24px;
+      }
+    .subHeader .slidesList .slideItem .column2 {
+      width: 700px;
+      height: 300px;
+      float: right;
+    }
+
+/*========== [layout] ========================================================*/
+
+div#innerText {
+  padding: 20px 30px 10px 21px;
+}
+div#wrapper {
+  background:  #fbfbfb;
+}
+
+/*========== [text] ==========================================================*/
+h1 {
+  font-weight: bold;
+  color: #000;
+  font-size: 1.81em;
+  margin-bottom: 8px;
+}
+
+h1:first-child, .hr + h1, p + h1 {
+  margin-top: 0;
+  font-size: 30px;
+}
+
+h2 {
+  font-weight: bold;
+  color: #000;
+  font-size: 20px;
+  margin-bottom: 5px;
+  line-height: 1.2;
+  padding-bottom: 8px;
+  margin-top: 20px;
+}
+
+h2 a, h2 a:link, h2 a:visited {
+  text-decoration: none;
+}
+
+h2 a:hover {
+  text-decoration: underline;
+}
+
+h3 {
+  font-weight: bold;
+  color: #000;
+  font-size: 1.3em;
+  margin-bottom: 5px;
+  line-height: 1.1;
+  padding-bottom: 6px;
+}
+

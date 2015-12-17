@@ -1,0 +1,99 @@
+html {
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body, table, th {
+  font-size: 1em;
+  text-align: left;
+}
+
+body, form, fieldset,
+h1, h2, h3, h4, h5, h6, p,
+blockquote, ul, ol, dl, address {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  font-family: Arial, sans-serif;
+}
+
+pre {
+    border-width:1px;
+    border-style:solid;
+    padding: 4px;
+    background-color: #fbfbfb;
+    border-color: #dedede;
+}
+
+fieldset {
+  border: none;
+}
+
+input, select, textarea {
+  font-size: 100%;
+	font-family: inherit;
+}
+
+abbr {border-bottom: 1px dotted;cursor: help}
+ul li {list-style-type: none}
+img {border: 0 none;display: block;}
+img.inline {
+  display: inline-block;
+}
+
+.clr {
+  width: 100%;
+  overflow: hidden;
+}
+
+.clr2 {
+  width: 100%;
+  overflow: visible;
+}
+
+.hid {display: none}
+.hid2 {position: absolute;left: -9999px}
+
+hr.n {
+  display: none;
+}
+
+hr.cleaner {
+  clear: both;
+  height: 1px;
+  margin: -1px 0 0 0;
+  border: none;
+  visibility: hidden;
+}
+
+.rel {position: relative;}
+.left {float: left;}
+.right {float: right;}
+.ra {text-align: right;}
+
+table {
+  border-collapse: collapse;
+}
+
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clearfix {
+  display: inline-block;
+}
+
+html[xmlns] .clearfix {
+  display: block;
+}
+
+* html .clearfix {
+  height: 1%;
+}
