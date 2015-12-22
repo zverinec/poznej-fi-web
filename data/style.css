@@ -119,7 +119,7 @@ div#logo-fi {
 
 div#logo-fi h1 { display: none; }
 div#logo-fi a { color: #FCFCFC; }
-div#logo-fi span.cs {background: url(../data/spoznej-fi-text.png) 0 0 no-repeat;}
+div#logo-fi span.cs {background: url(../data/poznej-fi-text.png) 0 0 no-repeat;}
 
 div#altNav a:active, div#altNav a:focus {
   left: 366px;
