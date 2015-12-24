@@ -6,6 +6,28 @@
 
 @import url("initial.css");
 
+/*========== [std. design] ========================================================*/
+
+.mobileOnly {display: none;}
+.enableResponsiveLink { display: none;}
+
+a, a:link {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #0d3d93;
+}
+
+a:visited {
+  color: #1b396f;
+}
+
+a:hover, a:focus, a:active {
+  color: #000;
+  text-decoration: none;
+}
+
+/*========== nove poznej fi ===============*/
+
 p {
 font-size: 1.2em;
 }
@@ -64,26 +86,6 @@ a#logo-hci {
   top: 370px;
   right: 5px;
   z-index: 100;
-}
-
-/*========== [std. design] ========================================================*/
-
-.mobileOnly {display: none;}
-.enableResponsiveLink { display: none;}
-
-a, a:link {
-  text-decoration: underline;
-  cursor: pointer;
-  color: #0d3d93;
-}
-
-a:visited {
-  color: #1b396f;
-}
-
-a:hover, a:focus, a:active {
-  color: #000;
-  text-decoration: none;
 }
 
 /*========== [layout] ========================================================*/
