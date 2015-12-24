@@ -24,7 +24,12 @@ a.logo {
   background-repeat: no-repeat;
   height: 80px;
   float: left;
-  margin: 0 38px 0 30px;	
+  margin: 0 38px 0 30px;
+  text-decoration: none;
+}
+
+a.logo:hover {
+  text-decoration: none;
 }
 
 a#logo-ksi {
