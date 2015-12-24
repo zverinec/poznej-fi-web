@@ -19,6 +19,39 @@ margin-bottom: 30px;
 font-weight: bold;
 }
 
+a.logo {
+  display: block;
+  background-repeat: no-repeat;
+  height: 80px;
+  float: left;
+  margin: 0 38px 0 30px;	
+}
+
+a#logo-ksi {
+  background-image: url(logo-ksi.png);
+  width:80px;
+}
+
+a#logo-nlp {
+  background-image: url(logo-nlp.png);
+  width: 107px;
+}
+
+a#logo-agdm {
+  background-image: url(logo-agdm.png);
+  width: 177px;
+}
+
+a#logo-zverinec {
+  background-image: url(logo-zverinec.png);
+  width: 160px;
+}
+
+a#logo-hci {
+  background-image: url(logo-hci.png);
+  width: 94px;
+}
+
 /*========== [moje custom veci] ========================================================*/
 
 #nextSlide2 {
@@ -52,9 +85,11 @@ a:hover, a:focus, a:active {
 body {
   text-align: center;
   font-family: Arial, sans-serif;
-  background: #f7f0be url(../data/body.png) 0 0 repeat-x;
+  background: #f7f0be url(body.png) 0 0 repeat-x;
   color: #444;
   line-height: 1.6;
+  min-width: 100%;
+  position: absolute;
 }
 
 table {
@@ -67,7 +102,7 @@ div#mWrap {
 
 div#main {
   text-align: left;
-  margin: 0 auto 60px auto;
+  margin: 0 auto 140px auto;
   position: relative;
 
   /*width: 100%;
@@ -77,8 +112,17 @@ div#main {
   width: 960px;
 }
 
-div#main2 {
-  margin: 0 0 0 0;
+div#footer {
+  position: absolute;
+  bottom: 0;
+  background: url(footer.png) 0 100% repeat-x;
+  min-width: 100%;
+  min-height: 200px;
+}
+
+div#footer-content {
+  width: 960px;
+  margin: 105px auto 10px auto;
 }
 
 /*========== [header] ========================================================*/
@@ -119,23 +163,12 @@ div#logo-fi {
 
 div#logo-fi h1 { display: none; }
 div#logo-fi a { color: #FCFCFC; }
-div#logo-fi span.cs {background: url(../data/poznej-fi-text.png) 0 0 no-repeat;}
-
-div#altNav a:active, div#altNav a:focus {
-  left: 366px;
-  padding: 0.2em 1em 0.4em;
-  border: 1px solid #0d3d93;
-  top: 38px;
-  font-weight: bold;
-  font-size: 1.2em;
-  display: block;
-  color: #0d3d93;
-}
+div#logo-fi span.cs {background: url(poznej-fi-text.png) 0 0 no-repeat;}
 
 .subHeader {
   margin-top: 10px;
   margin-bottom: 11px;
-  background: #1f1a17 url(../data/subHeader.png) 0 100% repeat-x;
+  background: #1f1a17 url(subHeader.png) 0 100% repeat-x;
   color: #fff;
   position: relative;
 }
