@@ -46,7 +46,7 @@ a.logo {
   background-repeat: no-repeat;
   height: 80px;
   float: left;
-  margin: 0 38px 0 30px;
+  margin: 0 10px 0 10px;
   text-decoration: none;
 }
 
@@ -66,7 +66,7 @@ a#logo-nlp {
 
 a#logo-agdm {
   background-image: url(logo-agdm.png);
-  width: 177px;
+  width: 118px;
 }
 
 a#logo-zverinec {
@@ -77,6 +77,16 @@ a#logo-zverinec {
 a#logo-hci {
   background-image: url(logo-hci.png);
   width: 94px;
+}
+
+a#logo-crocs {
+  background-image: url(logo-crocs.png);
+  width: 114px;
+}
+
+a#logo-paradise {
+  background-image: url(logo-paradise.png);
+  width: 134px;
 }
 
 /*========== [moje custom veci] ========================================================*/
