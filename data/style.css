@@ -46,7 +46,7 @@ a.logo {
   background-repeat: no-repeat;
   height: 80px;
   float: left;
-  margin: 0 10px 0 10px;
+  margin: 0 12px 0 12px;
   text-decoration: none;
 }
 
@@ -87,6 +87,16 @@ a#logo-crocs {
 a#logo-paradise {
   background-image: url(logo-paradise.png);
   width: 134px;
+}
+
+a#logo-sybila {
+  background-image: url(logo-sybila.png);
+  width: 134px;
+}
+
+a#logo-alg {
+  background-image: url(logo-alg.png);
+  width: 100px;
 }
 
 /*========== [moje custom veci] ========================================================*/
