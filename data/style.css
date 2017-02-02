@@ -94,6 +94,11 @@ a#logo-sybila {
   width: 134px;
 }
 
+a#logo-sitola {
+  background-image: url(logo-sitola.png);
+  width: 103px;
+}
+
 a#logo-alg {
   background-image: url(logo-alg.png);
   width: 100px;
@@ -148,7 +153,7 @@ div#footer {
 }
 
 div#footer-content {
-  width: 960px;
+  width: 1250px;
   margin: 105px auto 10px auto;
 }
 
