@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="al-logo.svg"
+   inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+   inkscape:export-xdpi="200.25919"
+   inkscape:export-ydpi="200.25919">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4494">
+      <stop
+         style="stop-color:#e0f2f1;stop-opacity:1;"
+         offset="0"
+         id="stop4496" />
+      <stop
+         style="stop-color:#e0f2f1;stop-opacity:0;"
+         offset="1"
+         id="stop4498" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4305">
+      <stop
+         style="stop-color:#e5e5e5;stop-opacity:1"
+         offset="0"
+         id="stop4307" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop4309" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4251">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop4253" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop4255" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4251"
+       id="linearGradient4257"
+       x1="180"
+       y1="807.36218"
+       x2="45"
+       y2="892.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4251"
+       id="linearGradient4259"
+       x1="110"
+       y1="782.36218"
+       x2="25"
+       y2="867.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4305"
+       id="linearGradient4311"
+       x1="1770"
+       y1="472.36218"
+       x2="1770"
+       y2="582.36218"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,20)" />
+    <filter
+       inkscape:collect="always"
+       id="filter4321">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3"
+         id="feGaussianBlur4323" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4305-9"
+       id="linearGradient4311-2"
+       x1="1770"
+       y1="472.36218"
+       x2="1770"
+       y2="582.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4305-9">
+      <stop
+         style="stop-color:#e5e5e5;stop-opacity:1"
+         offset="0"
+         id="stop4307-0" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop4309-4" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4321-5">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.3"
+         id="feGaussianBlur4323-4" />
+    </filter>
+    <linearGradient
+       gradientTransform="translate(-3.0501563e-5,-180)"
+       y2="622.36218"
+       x2="1770"
+       y1="472.36218"
+       x1="1770"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4352"
+       xlink:href="#linearGradient4305-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4494"
+       id="linearGradient4500"
+       x1="1760"
+       y1="642.36218"
+       x2="1760"
+       y2="782.36218"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter4506">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.35"
+         id="feGaussianBlur4508" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4305"
+       id="linearGradient4523"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,20)"
+       x1="1770"
+       y1="472.36218"
+       x2="1770"
+       y2="582.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4494"
+       id="linearGradient4543"
+       gradientUnits="userSpaceOnUse"
+       x1="1760"
+       y1="642.36218"
+       x2="1760"
+       y2="782.36218" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-116.0913"
+     inkscape:cy="100.01634"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1032"
+     inkscape:window-height="939"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e5e5e5;stroke:#b2b2b2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
+       id="rect3945-1"
+       width="330"
+       height="110"
+       x="45"
+       y="482.36218"
+       ry="5" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-4"
+       width="330"
+       height="110"
+       x="400"
+       y="482.36218"
+       ry="5" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(30,-25)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(65,-60)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <path
+       transform="translate(165,0)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(195,-25)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(230,-60)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <path
+       transform="translate(325,0)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(355,-25)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(390,-60)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <path
+       transform="translate(485,-2.9999999e-6)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(515,-25.000003)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(550,-60)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="50"
+       y="42.362183"
+       id="text3905"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3907"
+         x="50"
+         y="42.362183">Research group @ FI MU</tspan></text>
+    <path
+       transform="translate(-25,289.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(5,264.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(40,230)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="190"
+       y="377.36218"
+       id="text3897-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2"
+         x="190"
+         y="377.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="190"
+       y="427.36218"
+       id="text3901-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6"
+         x="190"
+         y="427.36218">Learning</tspan></text>
+    <rect
+       style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945"
+       width="330"
+       height="110"
+       x="45"
+       y="332.36218"
+       ry="5" />
+    <path
+       transform="translate(-25,439.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(5,414.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(40,380)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="190"
+       y="527.36218"
+       id="text3897-1-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4"
+         x="190"
+         y="527.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="190"
+       y="577.36218"
+       id="text3901-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4"
+         x="190"
+         y="577.36218">Learning</tspan></text>
+    <path
+       transform="translate(330,439.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(360,414.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#b2b2b2;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(395,380)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#fcfcfc;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-8"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="545"
+       y="527.36218"
+       id="text3897-1-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-1"
+         x="545"
+         y="527.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="545"
+       y="577.36218"
+       id="text3901-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-9"
+         x="545"
+         y="577.36218">Learning</tspan></text>
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#b2b2b2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-1-0"
+       width="305"
+       height="110"
+       x="65"
+       y="632.36218"
+       ry="5" />
+    <path
+       transform="matrix(0.81818182,0,0,1.0000001,10.454544,589.99998)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-4"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="matrix(0.81818182,0,0,1.0000001,34.999999,564.99998)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-2"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="matrix(0.81818182,0,0,1.0000001,63.636363,529.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-4"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="185"
+       y="677.36218"
+       id="text3897-1-5-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-4"
+         x="185"
+         y="677.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="185"
+       y="727.36218"
+       id="text3901-3-7-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-2"
+         x="185"
+         y="727.36218">Learning</tspan></text>
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#b2b2b2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-1-2"
+       width="330"
+       height="110"
+       x="45"
+       y="772.36218"
+       ry="5" />
+    <path
+       transform="translate(-25,729.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-7"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(5,704.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-4"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(40,670)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-5"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="190"
+       y="817.36218"
+       id="text3897-1-5-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-6"
+         x="190"
+         y="817.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="190"
+       y="867.36218"
+       id="text3901-3-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-20"
+         x="190"
+         y="867.36218">Learning</tspan></text>
+    <path
+       style="fill:#e5e5e5;fill-opacity:1;stroke:url(#linearGradient4257);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 85,877.36218 c 41.8858,-15.15859 71.82462,-37.92564 95,-65"
+       id="path4231"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:url(#linearGradient4259);stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 55,842.36218 c 30,-25 35,-30 55,-60"
+       id="path4231-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#b2b2b2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-1-8"
+       width="320"
+       height="110"
+       x="400"
+       y="632.36218"
+       ry="5" />
+    <path
+       transform="matrix(0.88888889,0,0,1,341.66667,589.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="matrix(0.88888889,0,0,1,368.33333,564.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-8"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="matrix(0.88888889,0,0,1,399.44444,530)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-6"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="535"
+       y="677.36218"
+       id="text3897-1-5-09"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-61"
+         x="535"
+         y="677.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="535"
+       y="727.36218"
+       id="text3901-3-7-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-7"
+         x="535"
+         y="727.36218">Learning</tspan></text>
+    <path
+       transform="translate(-5,139.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-6"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(25,114.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-20"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(60,80)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 180,199.36218 c -13.99821,-5.16182 -33.19237,-5.12669 -41,3 -7.80763,8.12669 -6.19729,16.23475 2,23"
+       id="path4392"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 112,259.36218 c -7,-4 -14,-9 -7,-18 7,-9 20.33333,-7.59211 31,-6"
+       id="path4396"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 88,281.36218 c -6.211172,-2.2199 -9.788888,-10.04189 -4,-15 4.863191,-4.16526 13.567294,-2.69432 19,-2"
+       id="path4400"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       transform="translate(170,139.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(200,114.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(235,80)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <path
+       transform="translate(238,83)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59-6"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="M 73.243116,141.40699 A 30,20 0 0 1 123.98205,120.34624"
+       sodipodi:start="2.6723171"
+       sodipodi:end="5.6386877"
+       sodipodi:open="true" />
+    <path
+       transform="translate(201,117)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9-7"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 75.374645,134.94928 a 25,15 0 0 1 47.553465,-8.56612"
+       sodipodi:start="2.9682526"
+       sodipodi:end="5.873194"
+       sodipodi:open="true" />
+    <path
+       transform="translate(171,141)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="M 87.036486,137.39308 A 15,10 0 0 1 112.16152,126.5085"
+       sodipodi:start="2.6144227"
+       sodipodi:end="5.6578514"
+       sodipodi:open="true" />
+    <rect
+       style="fill:#e5e5e5;fill-opacity:1;stroke:#b2b2b2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-1-4"
+       width="330"
+       height="110"
+       x="780"
+       y="472.36218"
+       ry="5"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="925"
+       y="517.36218"
+       id="text3897-1-5-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-7"
+         x="925"
+         y="517.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="925"
+       y="567.36218"
+       id="text3901-3-7-62"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-1"
+         x="925"
+         y="567.36218">Learning</tspan></text>
+    <path
+       transform="translate(715,430)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12-0"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(745,405)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9-0"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(780,370.00001)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59-2"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(783,373.00001)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59-6-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="M 73.243116,141.40699 A 30,20 0 0 1 123.98205,120.34624"
+       sodipodi:start="2.6723171"
+       sodipodi:end="5.6386877"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(746,407.00001)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9-7-6"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 75.374645,134.94928 a 25,15 0 0 1 47.553465,-8.56612"
+       sodipodi:start="2.9682526"
+       sodipodi:end="5.873194"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(716,431.00001)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12-1-5"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="M 87.036486,137.39308 A 15,10 0 0 1 112.16152,126.5085"
+       sodipodi:start="2.6144227"
+       sodipodi:end="5.6578514"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(320,134.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12-9"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z" />
+    <path
+       transform="translate(350,109.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9-9"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z" />
+    <path
+       transform="translate(385,75)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z" />
+    <path
+       transform="translate(388,78)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59-6-6"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="M 73.243116,141.40699 A 30,20 0 0 1 123.98205,120.34624"
+       sodipodi:start="2.6723171"
+       sodipodi:end="5.6386877"
+       sodipodi:open="true" />
+    <path
+       transform="translate(351,112)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9-7-3"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 75.374645,134.94928 a 25,15 0 0 1 47.553465,-8.56612"
+       sodipodi:start="2.9682526"
+       sodipodi:end="5.873194"
+       sodipodi:open="true" />
+    <path
+       transform="translate(321,136)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12-1-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="M 87.036486,137.39308 A 15,10 0 0 1 112.16152,126.5085"
+       sodipodi:start="2.6144227"
+       sodipodi:end="5.6578514"
+       sodipodi:open="true" />
+    <rect
+       style="fill:#e0f2f1;fill-opacity:1;stroke:#b2dfdb;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-1-4-5"
+       width="330"
+       height="110"
+       x="780"
+       y="627.36218"
+       ry="5"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="925"
+       y="672.36218"
+       id="text3897-1-5-3-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-7-9"
+         x="925"
+         y="672.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#00897b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="925"
+       y="722.36218"
+       id="text3901-3-7-62-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-1-2"
+         x="925"
+         y="722.36218">Learning</tspan></text>
+    <g
+       id="g3924"
+       style="stroke:#004d40;stroke-opacity:1"
+       transform="translate(6,297.00001)"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-2-0"
+         style="fill:none;stroke:#004d40;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(774,228)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6386877"
+         sodipodi:start="2.6723171"
+         d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-6-1-0"
+         style="fill:none;stroke:#004d40;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(777,231)" />
+    </g>
+    <g
+       id="g3928"
+       style="stroke:#00897b;stroke-opacity:1"
+       transform="translate(6,297.00001)"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-0-9"
+         style="fill:none;stroke:#00897b;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(739,262.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.873194"
+         sodipodi:start="2.9682526"
+         d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-7-6-1"
+         style="fill:none;stroke:#00897b;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(740,265)" />
+    </g>
+    <g
+       id="g3932"
+       style="stroke:#4db6ac;stroke-opacity:1"
+       transform="translate(6,297.00001)"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-0-7"
+         style="fill:none;stroke:#4db6ac;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(709,287.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6578514"
+         sodipodi:start="2.6144227"
+         d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-1-5-3"
+         style="fill:none;stroke:#4db6ac;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(710,289)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="845.2334"
+       y="824.07788"
+       id="text4023"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4025"
+         x="845.2334"
+         y="824.07788">http://www.google.com/design/spec/style/color.html#color-color-palette</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="840"
+       y="792.36218"
+       id="text4027"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4029"
+         x="840"
+         y="792.36218">Teal</tspan></text>
+    <rect
+       style="fill:#fff3e0;fill-opacity:1;stroke:#ffe0b2;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-1-4-5-2"
+       width="330"
+       height="110"
+       x="1160"
+       y="627.36218"
+       ry="5"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e65100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="1305"
+       y="672.36218"
+       id="text3897-1-5-3-6-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-7-9-6"
+         x="1305"
+         y="672.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fb8c00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1305"
+       y="722.36218"
+       id="text3901-3-7-62-0-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-1-2-2"
+         x="1305"
+         y="722.36218">Learning</tspan></text>
+    <g
+       transform="translate(385.99998,297)"
+       id="g3924-3"
+       style="stroke:#e65100;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-2-0-2"
+         style="fill:none;stroke:#e65100;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(774,228)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6386877"
+         sodipodi:start="2.6723171"
+         d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-6-1-0-7"
+         style="fill:none;stroke:#e65100;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(777,231)" />
+    </g>
+    <g
+       transform="translate(385.99998,297)"
+       id="g3928-0"
+       style="stroke:#fb8c00;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-0-9-3"
+         style="fill:none;stroke:#fb8c00;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(739,262.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.873194"
+         sodipodi:start="2.9682526"
+         d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-7-6-1-1"
+         style="fill:none;stroke:#fb8c00;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(740,265)" />
+    </g>
+    <g
+       transform="translate(385.99998,297)"
+       id="g3932-4"
+       style="stroke:#ffb74d;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-0-7-7"
+         style="fill:none;stroke:#ffb74d;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(709,287.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6578514"
+         sodipodi:start="2.6144227"
+         d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-1-5-3-1"
+         style="fill:none;stroke:#ffb74d;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(710,289)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1160"
+       y="792.36218"
+       id="text4136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="1160"
+         y="792.36218">Orange</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-1-4-1"
+       width="330"
+       height="110"
+       x="1160"
+       y="472.36218"
+       ry="5"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="1305"
+       y="517.36218"
+       id="text3897-1-5-3-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-7-0"
+         x="1305"
+         y="517.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b2b2b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1305"
+       y="567.36218"
+       id="text3901-3-7-62-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-1-8"
+         x="1305"
+         y="567.36218">Learning</tspan></text>
+    <g
+       id="g4188"
+       style="stroke:#e5e5e5;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-2-02"
+         style="fill:none;stroke:#e5e5e5;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1160,370)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6386877"
+         sodipodi:start="2.6723171"
+         d="M 73.243116,141.40699 A 30,20 0 0 1 123.98205,120.34624"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-6-1-8"
+         style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1163,373)" />
+    </g>
+    <g
+       id="g4192"
+       style="stroke:#b2b2b2;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-0-1"
+         style="fill:none;stroke:#b2b2b2;stroke-width:4.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1125,404.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.873194"
+         sodipodi:start="2.9682526"
+         d="m 75.374645,134.94928 a 25,15 0 0 1 47.553465,-8.56612"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-7-6-9"
+         style="fill:none;stroke:#b2b2b2;stroke-width:4.50000000000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1126,407)" />
+    </g>
+    <g
+       id="g4196"
+       style="stroke:#808080;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-0-5"
+         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1095,429.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6578514"
+         sodipodi:start="2.6144227"
+         d="M 87.036486,137.39308 A 15,10 0 0 1 112.16152,126.5085"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-1-5-0"
+         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1096,431)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="920"
+       y="352.36218"
+       id="text3897-1-5-3-7-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-researchgroup.png"
+       inkscape:export-xdpi="600.27185"
+       inkscape:export-ydpi="600.27185"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-7-99-8"
+         x="920"
+         y="352.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="920"
+       y="402.36218"
+       id="text3901-3-7-62-1-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-researchgroup.png"
+       inkscape:export-xdpi="600.27185"
+       inkscape:export-ydpi="600.27185"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-1-4-7"
+         x="920"
+         y="402.36218">Learning</tspan></text>
+    <path
+       transform="translate(710,264.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12-0-8-0"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-researchgroup.png"
+       inkscape:export-xdpi="600.27185"
+       inkscape:export-ydpi="600.27185" />
+    <path
+       transform="translate(740,239.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9-0-0-5"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-researchgroup.png"
+       inkscape:export-xdpi="600.27185"
+       inkscape:export-ydpi="600.27185" />
+    <path
+       transform="translate(775,205)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59-2-4-3"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-researchgroup.png"
+       inkscape:export-xdpi="600.27185"
+       inkscape:export-ydpi="600.27185" />
+    <path
+       transform="translate(778,208)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59-6-1-1-3"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="M 73.243116,141.40699 A 30,20 0 0 1 123.98205,120.34624"
+       sodipodi:start="2.6723171"
+       sodipodi:end="5.6386877"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-researchgroup.png"
+       inkscape:export-xdpi="600.27185"
+       inkscape:export-ydpi="600.27185" />
+    <path
+       transform="translate(741,242)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9-7-6-0-8"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 75.374645,134.94928 a 25,15 0 0 1 47.553465,-8.56612"
+       sodipodi:start="2.9682526"
+       sodipodi:end="5.873194"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-researchgroup.png"
+       inkscape:export-xdpi="600.27185"
+       inkscape:export-ydpi="600.27185" />
+    <path
+       transform="translate(711,266)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12-1-5-6-1"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="M 87.036486,137.39308 A 15,10 0 0 1 112.16152,126.5085"
+       sodipodi:start="2.6144227"
+       sodipodi:end="5.6578514"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-researchgroup.png"
+       inkscape:export-xdpi="600.27185"
+       inkscape:export-ydpi="600.27185" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="795"
+       y="432.36218"
+       id="text3905-8-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-researchgroup.png"
+       inkscape:export-xdpi="600.27185"
+       inkscape:export-ydpi="600.27185"><tspan
+         sodipodi:role="line"
+         id="tspan3907-3-6"
+         x="795"
+         y="432.36218">Research group, Masaryk university Brno</tspan></text>
+    <g
+       id="g4510"
+       transform="translate(0,-20)"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <rect
+         ry="0"
+         y="492.36218"
+         x="1600"
+         height="110"
+         width="330"
+         id="rect3945-1-4-53"
+         style="fill:url(#linearGradient4523);fill-opacity:1;stroke:none;filter:url(#filter4321)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3897-1-5-3-2"
+         y="537.36218"
+         x="1745"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         xml:space="preserve"><tspan
+           y="537.36218"
+           x="1745"
+           id="tspan3899-2-4-7-5"
+           sodipodi:role="line">Adaptive</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3901-3-7-62-6"
+         y="587.36218"
+         x="1745"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="587.36218"
+           x="1745"
+           id="tspan3903-6-4-1-6"
+           sodipodi:role="line">Learning</tspan></text>
+      <path
+         d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-0-75"
+         style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1535,449.99999)" />
+      <path
+         d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-0-7"
+         style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1565,424.99999)" />
+      <path
+         d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-2-3"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1600,390)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6386877"
+         sodipodi:start="2.6723171"
+         d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-6-1-4"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1603,393)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.873194"
+         sodipodi:start="2.9682526"
+         d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-7-6-0"
+         style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1566,427)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6578514"
+         sodipodi:start="2.6144227"
+         d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-1-5-1"
+         style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1536,451)" />
+    </g>
+    <rect
+       style="fill:url(#linearGradient4352);fill-opacity:1;stroke:none;filter:url(#filter4321-5)"
+       id="rect3945-1-4-53-9"
+       width="330"
+       height="140"
+       x="1600"
+       y="292.36218"
+       ry="0"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="1745"
+       y="337.36218"
+       id="text3897-1-5-3-2-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-7-5-0"
+         x="1745"
+         y="337.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1745"
+       y="387.36218"
+       id="text3901-3-7-62-6-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-1-6-3"
+         x="1745"
+         y="387.36218">Learning</tspan></text>
+    <path
+       transform="translate(1535,249.99998)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12-0-75-9"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="m 115,132.36218 a 15,10 0 1 1 -30,0 15,10 0 1 1 30,0 z"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(1565,224.99998)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9-0-7-3"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 125,132.36218 a 25,15 0 1 1 -50,0 25,15 0 1 1 50,0 z"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(1600,189.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59-2-3-0"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="m 130,132.36218 a 30,20 0 1 1 -60,0 30,20 0 1 1 60,0 z"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(1603,192.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-9-1-4-1-5-8-0-59-6-1-4-5"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="30"
+       sodipodi:ry="20"
+       d="M 73.243116,141.40699 A 30,20 0 0 1 123.98205,120.34624"
+       sodipodi:start="2.6723171"
+       sodipodi:end="5.6386877"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(1566,226.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#333333;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-6-2-3-6-5-0-2-9-7-6-0-7"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="25"
+       sodipodi:ry="15"
+       d="m 75.374645,134.94928 a 25,15 0 0 1 47.553465,-8.56612"
+       sodipodi:start="2.9682526"
+       sodipodi:end="5.873194"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       transform="translate(1536,250.99999)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#666666;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2987-5-6-2-4-8-3-12-1-5-1-5"
+       sodipodi:cx="100"
+       sodipodi:cy="132.36218"
+       sodipodi:rx="15"
+       sodipodi:ry="10"
+       d="M 87.036486,137.39308 A 15,10 0 0 1 112.16152,126.5085"
+       sodipodi:start="2.6144227"
+       sodipodi:end="5.6578514"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1620"
+       y="422.36218"
+       id="text3905-8-4-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><tspan
+         sodipodi:role="line"
+         id="tspan3907-3-6-9"
+         x="1620"
+         y="422.36218">Research group, Masaryk university Brno</tspan></text>
+    <g
+       id="g4525"
+       transform="translate(0,-20)"
+       inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <rect
+         ry="0"
+         y="642.36218"
+         x="1600"
+         height="140"
+         width="330"
+         id="rect3945-1-4-5-1"
+         style="fill:url(#linearGradient4543);fill-opacity:1;stroke:none;filter:url(#filter4506)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3897-1-5-3-6-5"
+         y="687.36218"
+         x="1745"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#004d40;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         xml:space="preserve"><tspan
+           y="687.36218"
+           x="1745"
+           id="tspan3899-2-4-7-9-3"
+           sodipodi:role="line">Adaptive</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3901-3-7-62-0-0"
+         y="737.36218"
+         x="1745"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#00897b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="737.36218"
+           x="1745"
+           id="tspan3903-6-4-1-2-0"
+           sodipodi:role="line">Learning</tspan></text>
+      <g
+         transform="translate(825.99998,311.99999)"
+         style="stroke:#004d40;stroke-opacity:1"
+         id="g3924-1">
+        <path
+           transform="translate(774,228)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#004d40;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-9-1-4-1-5-8-0-59-2-0-3"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="30"
+           sodipodi:ry="20"
+           d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z" />
+        <path
+           transform="translate(777,231)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#004d40;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-9-1-4-1-5-8-0-59-6-1-0-2"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="30"
+           sodipodi:ry="20"
+           d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+           sodipodi:start="2.6723171"
+           sodipodi:end="5.6386877"
+           sodipodi:open="true" />
+      </g>
+      <g
+         transform="translate(825.99998,311.99999)"
+         style="stroke:#00897b;stroke-opacity:1"
+         id="g3928-1">
+        <path
+           transform="translate(739,262.99999)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#00897b;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-6-2-3-6-5-0-2-9-0-9-0"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="25"
+           sodipodi:ry="15"
+           d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z" />
+        <path
+           transform="translate(740,265)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#00897b;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-6-2-3-6-5-0-2-9-7-6-1-4"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="25"
+           sodipodi:ry="15"
+           d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+           sodipodi:start="2.9682526"
+           sodipodi:end="5.873194"
+           sodipodi:open="true" />
+      </g>
+      <g
+         transform="translate(825.99998,311.99999)"
+         style="stroke:#4db6ac;stroke-opacity:1"
+         id="g3932-42">
+        <path
+           transform="translate(709,287.99999)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#4db6ac;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-5-6-2-4-8-3-12-0-7-3"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="15"
+           sodipodi:ry="10"
+           d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z" />
+        <path
+           transform="translate(710,289)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#4db6ac;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-5-6-2-4-8-3-12-1-5-3-6"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="15"
+           sodipodi:ry="10"
+           d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+           sodipodi:start="2.6144227"
+           sodipodi:end="5.6578514"
+           sodipodi:open="true" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3905-8-4-7-2"
+         y="772.36218"
+         x="1620"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#00897b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="772.36218"
+           x="1620"
+           id="tspan3907-3-6-9-7"
+           sodipodi:role="line">Research group, Masaryk university Brno</tspan></text>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-1-4-1-4"
+       width="330"
+       height="110"
+       x="1070"
+       y="942.36218"
+       ry="0"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="1215"
+       y="987.36218"
+       id="text3897-1-5-3-5-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-7-0-8"
+         x="1215"
+         y="987.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b2b2b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1215"
+       y="1037.3622"
+       id="text3901-3-7-62-5-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-1-8-6"
+         x="1215"
+         y="1037.3622">Learning</tspan></text>
+    <g
+       transform="translate(-90,470)"
+       id="g4188-8"
+       style="stroke:#e5e5e5;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919">
+      <path
+         d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-2-02-0"
+         style="fill:none;stroke:#e5e5e5;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1160,370)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6386877"
+         sodipodi:start="2.6723171"
+         d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-6-1-8-5"
+         style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1163,373)" />
+    </g>
+    <g
+       transform="translate(-90,470)"
+       id="g4192-0"
+       style="stroke:#b2b2b2;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919">
+      <path
+         d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-0-1-4"
+         style="fill:none;stroke:#b2b2b2;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1125,404.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.873194"
+         sodipodi:start="2.9682526"
+         d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-7-6-9-9"
+         style="fill:none;stroke:#b2b2b2;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1126,407)" />
+    </g>
+    <g
+       transform="translate(-90,470)"
+       id="g4196-2"
+       style="stroke:#808080;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919">
+      <path
+         d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-0-5-0"
+         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1095,429.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6578514"
+         sodipodi:start="2.6144227"
+         d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-1-5-0-9"
+         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1096,431)" />
+    </g>
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-1-4-1-4-0"
+       width="330"
+       height="110"
+       x="1490"
+       y="942.36218"
+       ry="5"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="1635"
+       y="987.36218"
+       id="text3897-1-5-3-5-4-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-4-7-0-8-2"
+         x="1635"
+         y="987.36218">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#b2b2b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1635"
+       y="1037.3622"
+       id="text3901-3-7-62-5-7-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-4-1-8-6-0"
+         x="1635"
+         y="1037.3622">Learning</tspan></text>
+    <g
+       transform="translate(330,470)"
+       id="g4188-8-1"
+       style="stroke:#e5e5e5;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919">
+      <path
+         d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-2-02-0-2"
+         style="fill:none;stroke:#e5e5e5;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1160,370)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6386877"
+         sodipodi:start="2.6723171"
+         d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-6-1-8-5-6"
+         style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1163,373)" />
+    </g>
+    <g
+       transform="translate(330,470)"
+       id="g4192-0-7"
+       style="stroke:#b2b2b2;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919">
+      <path
+         d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-0-1-4-1"
+         style="fill:none;stroke:#b2b2b2;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1125,404.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.873194"
+         sodipodi:start="2.9682526"
+         d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-7-6-9-9-1"
+         style="fill:none;stroke:#b2b2b2;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1126,407)" />
+    </g>
+    <g
+       transform="translate(330,470)"
+       id="g4196-2-8"
+       style="stroke:#808080;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv.png"
+       inkscape:export-xdpi="200.25919"
+       inkscape:export-ydpi="200.25919">
+      <path
+         d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-0-5-0-5"
+         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1095,429.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6578514"
+         sodipodi:start="2.6144227"
+         d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-1-5-0-9-1"
+         style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1096,431)" />
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-4-4"
+       width="816.56598"
+       height="115"
+       x="38.43401"
+       y="972.36218"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="185"
+       y="1057.3622"
+       id="text3897-1-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-1-2"
+         x="185"
+         y="1057.3622">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="530"
+       y="1057.3622"
+       id="text3901-3-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-9-0"
+         x="530"
+         y="1057.3622">Learning</tspan></text>
+    <g
+       id="g3789"
+       transform="translate(123.74369,27.274119)">
+      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+         style="stroke:#e5e5e5;stroke-opacity:1"
+         id="g4188-84"
+         transform="translate(-1248.882,477.26268)">
+        <path
+           transform="translate(1160,370)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#e5e5e5;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-9-1-4-1-5-8-0-59-2-02-9"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="30"
+           sodipodi:ry="20"
+           d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z" />
+        <path
+           transform="translate(1163,373)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-9-1-4-1-5-8-0-59-6-1-8-9"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="30"
+           sodipodi:ry="20"
+           d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+           sodipodi:start="2.6723171"
+           sodipodi:end="5.6386877"
+           sodipodi:open="true" />
+      </g>
+      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+         style="stroke:#b2b2b2;stroke-opacity:1"
+         id="g4192-7"
+         transform="translate(-1248.882,477.26268)">
+        <path
+           transform="translate(1125,404.99999)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#b2b2b2;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-6-2-3-6-5-0-2-9-0-1-1"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="25"
+           sodipodi:ry="15"
+           d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z" />
+        <path
+           transform="translate(1126,407)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#b2b2b2;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-6-2-3-6-5-0-2-9-7-6-9-8"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="25"
+           sodipodi:ry="15"
+           d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+           sodipodi:start="2.9682526"
+           sodipodi:end="5.873194"
+           sodipodi:open="true" />
+      </g>
+      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+         style="stroke:#808080;stroke-opacity:1"
+         id="g4196-4"
+         transform="translate(-1248.882,477.26268)">
+        <path
+           transform="translate(1095,429.99999)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-5-6-2-4-8-3-12-0-5-6"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="15"
+           sodipodi:ry="10"
+           d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z" />
+        <path
+           transform="translate(1096,431)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-5-6-2-4-8-3-12-1-5-0-5"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="15"
+           sodipodi:ry="10"
+           d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+           sodipodi:start="2.6144227"
+           sodipodi:end="5.6578514"
+           sodipodi:open="true" />
+      </g>
+    </g>
+    <g
+       id="g3857"
+       transform="translate(155,-5)"
+       inkscape:export-filename="/home/xpelanek/aisa/vyzkum/podklady/propagace/al-logo/al-logo-inv2.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3897-1-3-6-9"
+         y="1227.3622"
+         x="34.999996"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+         xml:space="preserve"><tspan
+           y="1227.3622"
+           x="34.999996"
+           id="tspan3899-2-1-2-5"
+           sodipodi:role="line">Adaptive</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3901-3-3-7-8"
+         y="1227.3622"
+         x="380"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           y="1227.3622"
+           x="380"
+           id="tspan3903-6-9-0-5"
+           sodipodi:role="line">Learning</tspan></text>
+      <g
+         transform="translate(-26.25631,197.27412)"
+         id="g3789-8">
+        <g
+           transform="translate(-1248.882,477.26268)"
+           id="g4188-84-2"
+           style="stroke:#e5e5e5;stroke-opacity:1"
+           inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100">
+          <path
+             d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z"
+             sodipodi:ry="20"
+             sodipodi:rx="30"
+             sodipodi:cy="132.36218"
+             sodipodi:cx="100"
+             id="path2987-9-1-4-1-5-8-0-59-2-02-9-0"
+             style="fill:none;stroke:#e5e5e5;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc"
+             transform="translate(1160,370)" />
+          <path
+             sodipodi:open="true"
+             sodipodi:end="5.6386877"
+             sodipodi:start="2.6723171"
+             d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+             sodipodi:ry="20"
+             sodipodi:rx="30"
+             sodipodi:cy="132.36218"
+             sodipodi:cx="100"
+             id="path2987-9-1-4-1-5-8-0-59-6-1-8-9-0"
+             style="fill:none;stroke:#e5e5e5;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc"
+             transform="translate(1163,373)" />
+        </g>
+        <g
+           transform="translate(-1248.882,477.26268)"
+           id="g4192-7-1"
+           style="stroke:#b2b2b2;stroke-opacity:1"
+           inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100">
+          <path
+             d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z"
+             sodipodi:ry="15"
+             sodipodi:rx="25"
+             sodipodi:cy="132.36218"
+             sodipodi:cx="100"
+             id="path2987-6-2-3-6-5-0-2-9-0-1-1-7"
+             style="fill:none;stroke:#b2b2b2;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc"
+             transform="translate(1125,404.99999)" />
+          <path
+             sodipodi:open="true"
+             sodipodi:end="5.873194"
+             sodipodi:start="2.9682526"
+             d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+             sodipodi:ry="15"
+             sodipodi:rx="25"
+             sodipodi:cy="132.36218"
+             sodipodi:cx="100"
+             id="path2987-6-2-3-6-5-0-2-9-7-6-9-8-8"
+             style="fill:none;stroke:#b2b2b2;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc"
+             transform="translate(1126,407)" />
+        </g>
+        <g
+           transform="translate(-1248.882,477.26268)"
+           id="g4196-4-5"
+           style="stroke:#808080;stroke-opacity:1"
+           inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+           inkscape:export-xdpi="100"
+           inkscape:export-ydpi="100">
+          <path
+             d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z"
+             sodipodi:ry="10"
+             sodipodi:rx="15"
+             sodipodi:cy="132.36218"
+             sodipodi:cx="100"
+             id="path2987-5-6-2-4-8-3-12-0-5-6-4"
+             style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc"
+             transform="translate(1095,429.99999)" />
+          <path
+             sodipodi:open="true"
+             sodipodi:end="5.6578514"
+             sodipodi:start="2.6144227"
+             d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+             sodipodi:ry="10"
+             sodipodi:rx="15"
+             sodipodi:cy="132.36218"
+             sodipodi:cx="100"
+             id="path2987-5-6-2-4-8-3-12-1-5-0-5-8"
+             style="fill:none;stroke:#808080;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+             sodipodi:type="arc"
+             transform="translate(1096,431)" />
+        </g>
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3945-4-4-0"
+       width="816.56598"
+       height="115"
+       x="-861.56598"
+       y="987.36218"
+       ry="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="-715"
+       y="1072.3622"
+       id="text3897-1-3-6-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-1-2-1"
+         x="-715"
+         y="1072.3622">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e5e5e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="-370"
+       y="1072.3622"
+       id="text3901-3-3-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-9-0-0"
+         x="-370"
+         y="1072.3622">Learning</tspan></text>
+    <g
+       id="g4176">
+      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+         style="stroke:#b2dfdb;stroke-opacity:1"
+         id="g4192-7-8"
+         transform="translate(-2025.1383,519.5368)">
+        <path
+           transform="translate(1125,404.99999)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#b2dfdb;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-6-2-3-6-5-0-2-9-0-1-1-0"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="25"
+           sodipodi:ry="15"
+           d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z" />
+        <path
+           transform="translate(1126,407)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#b2dfdb;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-6-2-3-6-5-0-2-9-7-6-9-8-7"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="25"
+           sodipodi:ry="15"
+           d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+           sodipodi:start="2.9682526"
+           sodipodi:end="5.873194"
+           sodipodi:open="true" />
+      </g>
+      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+         style="fill:none;fill-opacity:1;stroke:#e0f2f1;stroke-opacity:1"
+         id="g4188-84-3"
+         transform="translate(-2025.1383,519.5368)">
+        <path
+           transform="translate(1160,370)"
+           sodipodi:type="arc"
+           style="fill:none;fill-opacity:1;stroke:#e0f2f1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-9-1-4-1-5-8-0-59-2-02-9-1"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="30"
+           sodipodi:ry="20"
+           d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z" />
+        <path
+           transform="translate(1163,373)"
+           sodipodi:type="arc"
+           style="fill:none;fill-opacity:1;stroke:#e0f2f1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-9-1-4-1-5-8-0-59-6-1-8-9-2"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="30"
+           sodipodi:ry="20"
+           d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+           sodipodi:start="2.6723171"
+           sodipodi:end="5.6386877"
+           sodipodi:open="true" />
+      </g>
+      <g
+         inkscape:export-ydpi="100"
+         inkscape:export-xdpi="100"
+         inkscape:export-filename="/home/xpelanek/vyzkum/materialy/al-logo.png"
+         style="stroke:#4db6ac;stroke-opacity:1"
+         id="g4196-4-7"
+         transform="translate(-2025.1383,519.5368)">
+        <path
+           transform="translate(1095,429.99999)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#4db6ac;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-5-6-2-4-8-3-12-0-5-6-5"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="15"
+           sodipodi:ry="10"
+           d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z" />
+        <path
+           transform="translate(1096,431)"
+           sodipodi:type="arc"
+           style="fill:none;stroke:#4db6ac;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path2987-5-6-2-4-8-3-12-1-5-0-5-4"
+           sodipodi:cx="100"
+           sodipodi:cy="132.36218"
+           sodipodi:rx="15"
+           sodipodi:ry="10"
+           d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+           sodipodi:start="2.6144227"
+           sodipodi:end="5.6578514"
+           sodipodi:open="true" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e0f2f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"
+       x="-708.82904"
+       y="1219.9967"
+       id="text3897-1-3-6-0-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/al-logo.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3899-2-1-2-1-8"
+         x="-708.82904"
+         y="1219.9967">Adaptive</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#e0f2f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="-363.82904"
+       y="1219.9967"
+       id="text3901-3-3-7-2-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/xpelanek/al-logo.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan3903-6-9-0-0-1"
+         x="-363.82904"
+         y="1219.9967">Learning</tspan></text>
+    <g
+       transform="translate(-2018.9673,667.17136)"
+       id="g4192-7-8-9"
+       style="stroke:#b2dfdb;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/al-logo.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         d="m 125,132.36218 c 0,8.28427 -11.19288,15 -25,15 -13.807119,0 -25,-6.71573 -25,-15 0,-8.28427 11.192881,-15 25,-15 13.80712,0 25,6.71573 25,15 z"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-0-1-1-0-2"
+         style="fill:none;stroke:#b2dfdb;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1125,404.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.873194"
+         sodipodi:start="2.9682526"
+         d="m 75.374645,134.94928 c -2.381359,-8.16012 6.713314,-15.93349 20.313522,-17.36231 11.376283,-1.19517 22.636353,2.44087 27.239943,8.79619"
+         sodipodi:ry="15"
+         sodipodi:rx="25"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-6-2-3-6-5-0-2-9-7-6-9-8-7-6"
+         style="fill:none;stroke:#b2dfdb;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1126,407)" />
+    </g>
+    <g
+       transform="translate(-2018.9673,667.17136)"
+       id="g4188-84-3-2"
+       style="fill:none;stroke:#e0f2f1;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/al-logo.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         d="m 130,132.36218 c 0,11.0457 -13.43146,20 -30,20 -16.568542,0 -30,-8.9543 -30,-20 0,-11.04569 13.431458,-20 30,-20 16.56854,0 30,8.95431 30,20 z"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-2-02-9-1-5"
+         style="fill:none;stroke:#e0f2f1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1160,370)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6386877"
+         sodipodi:start="2.6723171"
+         d="m 73.243116,141.40699 c -7.492963,-9.85161 -1.587743,-21.88742 13.189676,-26.88273 12.977986,-4.38703 28.807058,-1.93275 37.549258,5.82198"
+         sodipodi:ry="20"
+         sodipodi:rx="30"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-9-1-4-1-5-8-0-59-6-1-8-9-2-0"
+         style="fill:none;stroke:#e0f2f1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1163,373)" />
+    </g>
+    <g
+       transform="translate(-2018.9673,667.17136)"
+       id="g4196-4-7-0"
+       style="stroke:#4db6ac;stroke-opacity:1"
+       inkscape:export-filename="/home/xpelanek/al-logo.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         d="m 115,132.36218 c 0,5.52285 -6.71573,10 -15,10 -8.284271,0 -15,-4.47715 -15,-10 0,-5.52284 6.715729,-10 15,-10 8.28427,0 15,4.47716 15,10 z"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-0-5-6-5-6"
+         style="fill:none;stroke:#4db6ac;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1095,429.99999)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="5.6578514"
+         sodipodi:start="2.6144227"
+         d="m 87.036486,137.39308 c -4.167731,-4.77304 -1.74238,-10.89475 5.417171,-13.67324 6.667493,-2.58753 15.191793,-1.38134 19.707863,2.78866"
+         sodipodi:ry="10"
+         sodipodi:rx="15"
+         sodipodi:cy="132.36218"
+         sodipodi:cx="100"
+         id="path2987-5-6-2-4-8-3-12-1-5-0-5-4-0"
+         style="fill:none;stroke:#4db6ac;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(1096,431)" />
+    </g>
+  </g>
+</svg>
