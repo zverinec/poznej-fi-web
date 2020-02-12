@@ -105,6 +105,12 @@ a#logo-alg {
   width: 100px;
 }
 
+a#logo-cbia {
+  background-image: url(logo-cbia.png);
+  width: 134px;
+}
+
+
 /*========== [moje custom veci] ========================================================*/
 
 #nextSlide2 {
@@ -154,7 +160,7 @@ div#footer {
 }
 
 div#footer-content {
-  width: 825px;
+  width: 960px;
   margin: 105px auto 10px auto;
 }
 
