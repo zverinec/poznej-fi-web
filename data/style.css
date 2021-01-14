@@ -38,6 +38,10 @@ font-size: 1.7em;
 margin-bottom: 30px;
 }
 
+.important {
+font-size: 1.7em;
+}
+
 .strong {
 font-weight: bold;
 }
