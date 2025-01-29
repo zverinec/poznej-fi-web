@@ -2,6 +2,10 @@
  * Zakladni Styl FI MUNI
  * Autor: Jan Rezac - Filosof
  *
+ * Responzivni design
+ * Autor: Michael Hruby - Informatik
+ *
+ *
  */
 
 @import url("initial.css");
@@ -352,3 +356,18 @@ h3 {
   padding-bottom: 6px;
 }
 
+/*========== [responsive design] ==========================================================*/
+@media only screen and (max-width: 980px) {
+  body, div#footer, div#main, #innerText iframe {
+    width: 100%;
+  }
+
+  div#header #fimunilogo {
+    left: auto;
+    right: 0;
+  }
+
+  html, .subHeader {
+    overflow-x: hidden;
+  }
+}
