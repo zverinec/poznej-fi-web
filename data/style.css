@@ -51,8 +51,10 @@ font-weight: bold;
 }
 
 a.logo {
+  width: 20%;
   display: block;
   background-repeat: no-repeat;
+  background-position: center;
   height: 80px;
   float: left;
   margin: 0 12px 0 12px;
@@ -65,62 +67,50 @@ a.logo:hover {
 
 a#logo-ksi {
   background-image: url(logo-ksi.png);
-  width:80px;
 }
 
 a#logo-nlp {
   background-image: url(logo-nlp.png);
-  width: 107px;
 }
 
 a#logo-agdm {
   background-image: url(logo-agdm.png);
-  width: 118px;
 }
 
 a#logo-zverinec {
   background-image: url(logo-zverinec.png);
-  width: 160px;
 }
 
 a#logo-hci {
   background-image: url(logo-hci.png);
-  width: 94px;
 }
 
 a#logo-crocs {
   background-image: url(logo-crocs.png);
-  width: 114px;
 }
 
 a#logo-paradise {
   background-image: url(logo-paradise.png);
-  width: 134px;
 }
 
 a#logo-sybila {
   background-image: url(logo-sybila.png);
-  width: 134px;
 }
 
 a#logo-sitola {
   background-image: url(logo-sitola.png);
-  width: 103px;
 }
 
 a#logo-alg {
   background-image: url(logo-alg.png);
-  width: 100px;
 }
 
 a#logo-cbia {
   background-image: url(logo-cbia.png);
-  width: 134px;
 }
 
 a#logo-disa {
   background-image: url(logo-disa.jpg);
-  width: 150px;
 }
 
 
@@ -137,7 +127,7 @@ a#logo-disa {
 body {
   text-align: center;
   font-family: Arial, sans-serif;
-  background: #f7f0be url(body.png) 0 0 repeat-x;
+  background-color: #f7f0be;
   color: #444;
   line-height: 1.6;
   min-width: 100%;
@@ -154,7 +144,7 @@ div#mWrap {
 
 div#main {
   text-align: left;
-  margin: 0 auto 140px auto;
+  margin: 0 auto;
   position: relative;
 
   /*width: 100%;
@@ -162,29 +152,39 @@ div#main {
   min-width: 770px;*/
   font-size: 14px;
   width: 960px;
+
+  box-shadow: 0px 0px 11px -4px rgba(0,0,0,0.75);
 }
 
+/*========== [footer] ========================================================*/
 div#footer {
-  position: absolute;
-  bottom: 0;
-  background: url(footer.png) 0 100% repeat-x;
+  margin-top: 20px;
+  padding: 20px 0;
+  background-color: #fff;
   min-width: 100%;
-  min-height: 200px;
+  height: 100px;
+  box-shadow: 0px 0px 11px -4px rgba(0,0,0,0.75);
 }
 
 div#footer-content {
   width: 960px;
-  margin: 105px auto 10px auto;
+  margin: 0 auto;
 }
 
 /*========== [header] ========================================================*/
 div#header {
   height: 110px;
   position: relative;
-  background-position: 411px 100%;
-  background-repeat: no-repeat;
+  background-color: #fff;
   z-index: 1000;
+  box-shadow: 0px 0px 11px -4px rgba(0,0,0,0.75);
 }
+
+div#header-content {
+  width: 960px;
+  margin: 0 auto;
+}
+
 div#header #fimunilogo {
   display: block;
   width: 166px;
@@ -196,22 +196,16 @@ div#header #fimunilogo {
   z-index: 1000000;
 }
 
+div#logo-fi, div#logo-fi {
+  padding-top: 30px;
+}
 
 div#logo-fi, div#logo-fi span {
   display: block;
   overflow: hidden;
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 330px;
   height: 61px;
 }
-
-div#logo-fi {
-  top: 30px;
-  left: 29px;
-}
-
 
 div#logo-fi h1 { display: none; }
 div#logo-fi a { color: #FCFCFC; }
@@ -357,9 +351,16 @@ h3 {
 }
 
 /*========== [responsive design] ==========================================================*/
+/*===== [fullscreen mode] =====*/
 @media only screen and (max-width: 980px) {
-  body, div#footer, div#main, #innerText iframe {
+  /*=== [everything screen-wide] ===*/
+  body, div#footer, div#footer-content, div#header-content, div#main, #innerText iframe {
     width: 100%;
+  }
+
+  /*=== [header] ===*/
+  div#header #logo-fi {
+    padding-left: 20px;
   }
 
   div#header #fimunilogo {
@@ -367,7 +368,60 @@ h3 {
     right: 0;
   }
 
-  html, .subHeader {
+  .subHeader {
     overflow-x: hidden;
+  }
+}
+
+/*===== [footer first collapse] =====*/
+@media only screen and (max-width: 800px) {
+  div#footer {
+    height: 200px;
+  }
+
+  a.logo {
+    width: 40%;
+    margin: 12px;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  /*=== [header] ===*/
+  div#header {
+    height: 90px;
+  }
+
+  /*=== [logo fi] ===*/
+  div#header #logo-fi {
+    width: 50%;
+  }
+
+  div#header #logo-fi span.cs {
+    background-size: contain;
+    width: 100%;
+  }
+
+  /*=== [fimunilogo fi] ===*/
+  div#header #fimunilogo {
+    width: 100px;
+  }
+
+  div#header #fimunilogo img{
+    width: 100%;
+  }
+
+  .perex {
+    font-size: 1.5em;
+  }
+}
+
+/*===== [footer second collapse] =====*/
+@media only screen and (max-width: 400px) {
+  div#footer {
+    height: 400px;
+  }
+
+  a.logo {
+    width: 90%;
   }
 }
