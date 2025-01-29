@@ -367,7 +367,38 @@ h3 {
     right: 0;
   }
 
-  html, .subHeader {
+  html, .subHeader, div#footer {
     overflow-x: hidden;
+  }
+}
+
+@media only screen and (max-width: 520px) {
+  /*=== [header] ===*/
+  div#header {
+    height: 70px;
+  }
+
+  /*=== [logo fi] ===*/
+  div#header #logo-fi {
+    width: 50%;
+  }
+
+  div#header #logo-fi span.cs {
+    background-size: contain;
+    width: 100%;
+  }
+
+  /*=== [fimunilogo fi] ===*/
+  div#header #fimunilogo {
+    width: 100px;
+  }
+
+  div#header #fimunilogo img{
+    width: 100%;
+  }
+
+  /*=== [fimunilogo fi] ===*/
+  .perex {
+    font-size: 1.5em;
   }
 }
